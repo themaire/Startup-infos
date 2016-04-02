@@ -1,6 +1,6 @@
-# Startup-infos
+# Startup-message
 
-If you wana know the dynimic IP adress at the startup.
+If you wana read the dynimic IP adress at the startup on the Sense Hat's LEDs matrix.
 
 What do you need :
 _ A Raspberry Pi
