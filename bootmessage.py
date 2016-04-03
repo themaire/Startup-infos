@@ -24,3 +24,5 @@ def messageIP():
 sense.show_message("Bonjour", scroll_speed=0.06, text_colour=blue)
 for i in range(2):
 	messageIP()
+	
+exit()
