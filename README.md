@@ -1,6 +1,6 @@
 # Startup-message
 
-If you wana read the IP adress at the startup on the Sense Hat's LEDs matrix.
+If you want to read the IP adress at the startup on the Sense Hat's LEDs matrix.
 
 You need to have:
 _ A Raspberry Pi
